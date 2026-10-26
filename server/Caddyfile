@@ -1,0 +1,4 @@
+{$SOVEREIGN_DOMAIN} {
+    encode zstd gzip
+    reverse_proxy sovereign-gateway:8080
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Sovereign",
+  "description": "Offline-first Android communication prototype with encrypted local state, local voice notes, a self-hosted gateway foundation, channels, and a social feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

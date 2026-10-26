@@ -1,0 +1,18 @@
+{
+  "description": "TEST-ONLY protocol fixture; embedded private key is public test data, never use for an account.",
+  "senderHandle": "@vector_sender",
+  "recipientHandle": "@vector_recipient",
+  "plaintext": "Sovereign E2EE interoperability vector — رسالة اختبار",
+  "senderSigningPublicKeyPem": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEa+oKX0Ki40+qF5EeFvb0w2wFSfWZ\nIyCkwP1Udw93AXjnNoUHAIE2BZEUs9PyxksN4l3XJuWmlHQHXjcd7zgS6w==\n-----END PUBLIC KEY-----\n",
+  "recipientEncryptionPrivateKeyPkcs8Base64": "MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQg6/HJwEtw6Jmopx95BG0q72MSPBWZBu7lFobuc6lfSYmhRANCAAS7B9nGaahRxvujQEvkXL9xBV/MrkKV3jcTerNj7POvrpCJv+RyJC3mQpo4vD+L2+HVN93SHwxRAaUiryNhEESQ",
+  "envelope": {
+    "version": 1,
+    "messageId": "c1c4a42f-2813-4e14-9a8c-10d3df560503",
+    "sentAt": 1760000000123,
+    "ephemeralPublicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEEDhSDdHOoU0c7kTTkJGMNwSlE628HP9GL6Mojk5T83ruoy1DP4m/9bHVdSATBGKim0oWFJ04nUkaOEdQZrtHNw==",
+    "nonce": "AAECAwQFBgcICQoL",
+    "ciphertext": "7Ls22KX8LOo6az5dq5Ij9sMPyPX33WR9iDvSE5kWbLwTXLoay91Z0lSCHj8/QFBcJMOUdrAh8wQ5BS1cPmnQD4zX",
+    "tag": "9zzUJp/HgzWpS9oU0Pi95w==",
+    "signature": "MEUCIQCQ0TuSjCa4MPIoEmySwzv2u75KiLyusPOO+HDgmGuGggIgad0XPyxZ04H+93mAO1Z0xKMlFtVXuNixPulLqTFytQY="
+  }
+}

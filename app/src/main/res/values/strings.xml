@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sovereign</string>
+    <string name="tagline">السيادي — Sovereign Super App</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="tab_chats">المراسلات</string>
+    <string name="tab_channels">القنوات</string>
+    <string name="tab_feed">الموجز</string>
+    <string name="tab_calls">المكالمات</string>
+    <string name="tab_settings">السيادة</string>
+
+    <string name="tab_chats_en">Chats</string>
+    <string name="tab_channels_en">Channels</string>
+    <string name="tab_feed_en">Feed</string>
+    <string name="tab_calls_en">Calls</string>
+    <string name="tab_settings_en">Vault</string>
+
+    <!-- General -->
+    <string name="search_hint">بحث في الرسائل والقنوات والموجز...</string>
+    <string name="connected">متصل بالعقدة السيادية</string>
+    <string name="disconnected">غير متصل</string>
+    <string name="e2ee_badge">تخزين محلي مشفّر</string>
+    <string name="self_hosted_badge">استضافة ذاتية Self-Hosted</string>
+</resources>
